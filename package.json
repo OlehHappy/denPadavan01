@@ -1,0 +1,16 @@
+{
+  "name": "newproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Oleh Daybov <olegtranslator@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.6",
+    "express": "^4.13.4"
+  }
+}
